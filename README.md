@@ -2,7 +2,7 @@
 Old school rules for tabletop fantasy roleplaying
 
 ## Current Version
-October, 2013 - 0.1.0
+October, 2013 - 0.2.0
 
 ## Objectives
 **Simple:** To create a game that can be played right away.
